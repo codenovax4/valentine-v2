@@ -4,7 +4,7 @@ import confetti from "canvas-confetti";
 
 const loveMessages = [
   "I knew you'd say yes 🥰",
-  "I love you Nicky 💕",
+  "I love you Sweety 💕",
   "Best Valentine ever ❤️",
   "You make me so happy 💖",
   "Forever yours 💘",

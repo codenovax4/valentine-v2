@@ -11,7 +11,7 @@ const messages = [
   "Pretty please? 🙏",
   "I'll be sad 😿",
   "Click YES! 💕",
-  "Nicky please 🥹",
+  "Sweety please 🥹",
 ];
 
 const NoButton = () => {

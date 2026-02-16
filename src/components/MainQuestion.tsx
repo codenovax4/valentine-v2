@@ -19,7 +19,7 @@ const MainQuestion = () => {
           ease: "easeInOut",
         }}
       >
-        Nicky, will you be
+        Sweety, will you be
       </motion.h1>
       <motion.h1
         className="font-romantic text-5xl md:text-7xl lg:text-8xl text-gradient-love mt-2"
